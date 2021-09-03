@@ -1,4 +1,4 @@
-package com.fetch.apiexercise;
+package com.fetchapi.exercise;
 
 import org.junit.jupiter.api.Test;
 import org.springframework.boot.test.context.SpringBootTest;

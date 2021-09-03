@@ -1,4 +1,4 @@
-package com.fetch.apiexercise;
+package com.fetchapi.exercise;
 
 import org.springframework.boot.SpringApplication;
 import org.springframework.boot.autoconfigure.SpringBootApplication;
@@ -7,6 +7,7 @@ import org.springframework.boot.autoconfigure.SpringBootApplication;
 public class ApiExerciseApplication {
 
 	public static void main(String[] args) {
+
 		SpringApplication.run(ApiExerciseApplication.class, args);
 	}
 
